@@ -1,14 +1,14 @@
 # Terraform
 
-## Description
-
-This repo contains various re-usable terraform configurations for Azure. 
-
 ## Table of Contents
 <!--ts-->
 * [Description](#description)
 * [Module list](#module-list)
 <!--ts-->
+
+## Description
+
+This repo contains various re-usable terraform configurations for Azure. 
 
 ## Module list
 
