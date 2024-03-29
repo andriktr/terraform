@@ -12,5 +12,5 @@ This repo contains various re-usable terraform modules
 
 ## Module list
 
-- [Private Azure Container Registry](./modules/private-acr)
-- [Azure Backup for AKS](./modules/azure-backup-aks)
+- [Private Azure Container Registry](./private-azure-acr)
+- [Azure Backup for AKS](./azure-backup-aks)
