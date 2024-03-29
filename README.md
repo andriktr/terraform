@@ -2,7 +2,7 @@
 
 ## Description
 
-This repo contains various re-usable terraform modules 
+This repo contains various re-usable terraform configurations for Azure. 
 
 ## Table of Contents
 <!--ts-->
@@ -14,3 +14,4 @@ This repo contains various re-usable terraform modules
 
 - [Private Azure Container Registry](./private-azure-acr)
 - [Azure Backup for AKS](./azure-backup-aks)
+- [Consul OIDC Azure AD](./consul-oidc-azure-ad)
